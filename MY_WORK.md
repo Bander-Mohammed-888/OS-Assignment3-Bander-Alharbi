@@ -148,7 +148,7 @@ I reviewed the critical sections and identified which shared variables and metho
 Approximately 1 hour.
 ---
 
-### Entry 2 - [November 24, 2026, 7:30]
+### Entry 2 - [November 25, 2026, 7:30]
 **What I did**:
 Implemented Feature 1: Ready Queue Lock.
 **Details**:
